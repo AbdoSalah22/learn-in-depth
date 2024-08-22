@@ -1,4 +1,4 @@
-// C program to calculate factorial using recursion
+// C program to calculate power of a number
 
 #include <stdio.h>
 
